@@ -23,10 +23,4 @@ Built using *HTML, CSS, and JavaScript* with a clean, modern design.
 ## 📸 Preview
 ![Portfolio Screenshot](img/portfolio-preview.jpg)
 
----
-
-## 📦 Installation & Usage
-
-1. *Clone the repository*
-   ```bash
-   git clone https://github.com/YourUsername/Portfolio_web.git
+ 
