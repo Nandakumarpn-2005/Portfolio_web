@@ -20,7 +20,7 @@ Built using *HTML, CSS, and JavaScript* with a clean, modern design.
 
 ---
 
-## 📸 Preview
-![Click Here](https://nandakumarpn-2005.github.io/Portfolio_web/))
+## 📸 Preview of My portfolio
+![Click Here](https://nandakumarpn-2005.github.io/Portfolio_web/)
 
  
