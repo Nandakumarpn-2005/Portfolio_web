@@ -21,6 +21,6 @@ Built using *HTML, CSS, and JavaScript* with a clean, modern design.
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](img/portfolio-preview.jpg)
+![Click Here](https://nandakumarpn-2005.github.io/Portfolio_web/))
 
  
